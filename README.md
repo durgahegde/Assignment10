@@ -1,2 +1,2 @@
 # Assignment10
- jQuery
+ Web page design using jQuery plugins
